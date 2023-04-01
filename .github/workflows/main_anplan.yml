@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Anplan'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_249D9BC0AAE44FC3B0DDF29E1E9B4BD2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_304CB4B68C444B6EBAC93645D886550D }}
