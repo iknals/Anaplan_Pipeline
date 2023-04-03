@@ -3,7 +3,6 @@ import sys
 from pulp import *
 import pandas as pd  
 import numpy as np
-from tkinter import *
 from functools import partial
 import requests
 import base64
